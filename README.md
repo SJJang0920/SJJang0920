@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontsize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontsize=90)
 
 
 
@@ -26,6 +26,7 @@
 System.out.print("Hello world!");
 
 ```
+-->
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=SJJang0920&show_icons=true&theme=radical)](https://github.com/SJJang0920)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=SJJang0920)](https://github.com/SJJang0920)
